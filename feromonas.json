@@ -1,0 +1,27 @@
+{
+  "lbh_cmd": "REGISTER_FEROMONA",
+  "brand": "HormigasAIS",
+  "origin_node": "A16-SanMiguel-SV",
+  "sovereign_signature": "CLHQ-HINN9XSU",
+  "protocol": "Lenguaje-Binario-HormigasAIS v2.0",
+  "status": "active",
+  "anchor_issue": "https://github.com/HormigasAIS/.github/issues/3",
+  "governance": "https://github.com/HormigasAIS/.github/blob/main/GOVERNANCE.md",
+  "nodes": {
+    "video": {
+      "tiktok": "https://vt.tiktok.com/ZSguyUV56/",
+      "instagram": "https://www.instagram.com/reel/De3Fjl2xF6H/",
+      "facebook": "https://www.facebook.com/share/p/19T3vHMgUR/",
+      "youtube": "chriswarriortv"
+    },
+    "web": {
+      "site": "https://hormigasais.com"
+    },
+    "publicaciones": {
+      "medium": "https://hormigasaiscristhiamquinonez.medium.com",
+      "x": "https://x.com/hormigasaux",
+      "pinterest": "https://www.pinterest.com/chriswarriortv/",
+      "linkedin": "Cristhiam L. Hernández"
+    }
+  }
+}
