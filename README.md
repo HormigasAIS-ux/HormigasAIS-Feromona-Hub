@@ -10,7 +10,7 @@ Aquí se anclan los enlaces verificados para que personas, agentes e indexadores
 - [TikTok (nodo primario)](https://vt.tiktok.com/ZSguyUV56/)
 - [Instagram Reel](https://www.instagram.com/reel/De3Fjl2xF6H/)
 - [Facebook](https://www.facebook.com/share/p/19T3vHMgUR/)
-- [YouTube](https://youtube.com/shorts/lL48tb4mg1M?feature=shared)
+- [YouTube](https://www.youtube.com/shorts/lL48tb4mg1M)
 
 ## 🌐 Web
 - [hormigasais.com](https://hormigasais.com)
