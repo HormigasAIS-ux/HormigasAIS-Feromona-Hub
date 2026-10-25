@@ -15,6 +15,11 @@ Aquí se anclan los enlaces verificados para que personas, agentes e indexadores
 ## 🌐 Web
 - [hormigasais.com](https://hormigasais.com)
 
+  ## 📚 Verificables
+- [LBH Spec v2.0 (Zenodo)](https://doi.org/10.5281/zenodo.19177759) · [v1](https://doi.org/10.5281/zenodo.17767205)
+- [lbh-sdk (PyPI)](https://pypi.org/project/lbh-sdk) · [lbh-sdk-hormigasais (npm)](https://www.npmjs.com/package/lbh-sdk-hormigasais)
+- [blog.hormigasais.com](https://blog.hormigasais.com)
+
 ## ✍️ Publicaciones y perfiles
 - [Bitácora en Medium](https://hormigasaiscristhiamquinonez.medium.com)
 - [X (Twitter): @hormigasaux](https://x.com/hormigasaux)
