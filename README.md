@@ -22,8 +22,9 @@ Aquí se anclan los enlaces verificados para que personas, agentes e indexadores
 - LinkedIn: Cristhiam L. Hernández
 
 ## 🔗 Anclaje y gobernanza
-- Issue ancla: [HormigasAIS/.github#3](https://github.com/HormigasAIS/.-github/issues/3)
-- Gobernanza: [GOVERNANCE.md](https://github.com/HormigasAIS/.-github/blob/main/GOVERNANCE.md)
+- Issue ancla: [HormigasAIS/.-github#3](https://github.com/HormigasAIS/.-github/issues/3)
+- Gobernanza: [GOVERNANCE.md](https://github.com/Thrumanshow/HormigasAIS/blob/main/GOVERNANCE.md)
+- Organización: [github.com/HormigasAIS](https://github.com/HormigasAIS)
 - Sello: `CLHQ-HINN9XSU` · Nodo emisor: `A16-SanMiguel-SV`
-
+  
 > 🐜 La inteligencia colectiva también necesita ser encontrada.
