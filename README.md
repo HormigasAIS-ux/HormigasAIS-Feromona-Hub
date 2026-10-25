@@ -4,7 +4,7 @@
 
 Aquí se anclan los enlaces verificados para que personas, agentes e indexadores lleguen a los canales correctos. El registro máquina-legible está en [`feromonas.json`](./feromonas.json) y cada novedad queda anotada en [`CHANGELOG.md`](./CHANGELOG.md).
 
-> **Estado:** 📌 Experimental / Edge. Este repositorio no gobierna el ecosistema; se rige por [GOVERNANCE.md](https://github.com/HormigasAIS/.-github/blob/main/GOVERNANCE.md).
+> **Estado:** 📌 Experimental / Edge. Este repositorio no gobierna el ecosistema; se rige por [GOVERNANCE.md](https://github.com/Thrumanshow/HormigasAIS/blob/main/GOVERNANCE.md).
 
 ## 🎬 Video y redes cortas
 - [TikTok (nodo primario)](https://vt.tiktok.com/ZSguyUV56/)
