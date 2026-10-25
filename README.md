@@ -19,7 +19,7 @@ Aquí se anclan los enlaces verificados para que personas, agentes e indexadores
 - [Bitácora en Medium](https://hormigasaiscristhiamquinonez.medium.com)
 - [X (Twitter): @hormigasaux](https://x.com/hormigasaux)
 - [Pinterest: chriswarriortv](https://www.pinterest.com/chriswarriortv/)
-- LinkedIn: Cristhiam L. Hernández
+- [LinkedIn: HormigasAIS Soberain](https://www.linkedin.com/in/cristhiam-lbh-architect/)
 
 ## 🔗 Anclaje y gobernanza
 - Issue ancla: [HormigasAIS/.-github#3](https://github.com/HormigasAIS/.-github/issues/3)
